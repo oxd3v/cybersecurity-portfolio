@@ -1,6 +1,7 @@
 # 🔐 Cybersecurity Portfolio — 0xwd3v
 
 **Live audit contests · bug bounties · practice audits — Web3 + Web2, 50/50.**
+**Web2 specialization: full-stack development** — Node.js · Next.js/React · TypeScript · REST APIs · PostgreSQL/MongoDB. I audit the stack I build in.
 Every entry here is real work: found by me, written by me, judged by someone else.
 
 ## 📑 Index of findings & audits
